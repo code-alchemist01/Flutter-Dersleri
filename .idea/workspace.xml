@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev2_DikdörtgenÇevresi.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev7_İnternetUcretiHesaplama.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev4_HarfSayısıBulma.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ödev2_DikdörtgenÇevresi.dart" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +42,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Dart Command Line App.Odev1_ DereceFahrenhiet.dart.executor": "Run",
     "Dart Command Line App.Odev3_Faktoriyel.dart.executor": "Run",
+    "Dart Command Line App.Odev4_HarfSayısıBulma.dart.executor": "Run",
     "Dart Command Line App.Odev5_İçAçıToplamı.dart.executor": "Run",
     "Dart Command Line App.Odev6_MaaşHesabı.dart.executor": "Run",
     "Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart.executor": "Run",
@@ -77,14 +76,14 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart">
-    <configuration name="Odev2_DikdörtgenÇevresi.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev2_DikdörtgenÇevresi.dart" />
+  <component name="RunManager" selected="Dart Command Line App.Odev4_HarfSayısıBulma.dart">
+    <configuration name="Odev3_Faktoriyel.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev3_Faktoriyel.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
-    <configuration name="Odev3_Faktoriyel.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev3_Faktoriyel.dart" />
+    <configuration name="Odev4_HarfSayısıBulma.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev4_HarfSayısıBulma.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
@@ -105,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.Odev4_HarfSayısıBulma.dart" />
         <item itemvalue="Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart" />
         <item itemvalue="Dart Command Line App.Odev6_MaaşHesabı.dart" />
         <item itemvalue="Dart Command Line App.Odev5_İçAçıToplamı.dart" />
         <item itemvalue="Dart Command Line App.Odev3_Faktoriyel.dart" />
-        <item itemvalue="Dart Command Line App.Odev2_DikdörtgenÇevresi.dart" />
       </list>
     </recent_temporary>
   </component>
