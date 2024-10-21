@@ -15,8 +15,7 @@ int maasHesabi(int gun) {
     return (160 * 10) + ((toplamSaat - 160) * 20);
 
   }
-  else if (toplamSaat <= 160) {
+  else {
     return toplamSaat * 10;
   }
-  return 0;;
 }
