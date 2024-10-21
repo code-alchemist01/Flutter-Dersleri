@@ -5,19 +5,17 @@ void main() {
   // Dikdörtgen alanı = a * a ( a = kenar)
   // Çember alanı = pi * r * r ( r = yarıçap
 
-  final pi = 3.14;
+  const pi = 3.14;
 
-
-  while(true) {
-    print("Lütfen yapmak istediğiniz işlemin numarasını tuşlayınız (1 --> Dikdörtgen Alanı 2 --> Çember Alanı q --> Programdan Çık");
+  while (true) {
+    print(
+        "Lütfen yapmak istediğiniz işlemin numarasını tuşlayınız (1 --> Dikdörtgen Alanı 2 --> Çember Alanı q --> Programdan Çık");
     String? secim = stdin.readLineSync();
 
-    if(secim == "q") {
+    if (secim == "q") {
       print("Çıkış Yapılıyor...");
       break;
-    }
-
-    else if(secim == "1") {
+    } else if (secim == "1") {
       print("Dikdörtgen Hesabı Programı Çalışıyor...");
 
       print("Lütfen kısa kenarın değerini giriniz : ");
@@ -26,9 +24,7 @@ void main() {
       int? uzunKenar = int.parse(stdin.readLineSync()!);
 
       print("Dikdörtgen Alanı : ${kisaKenar * uzunKenar}");
-    }
-
-    else if(secim == "2") {
+    } else if (secim == "2") {
       print("Çember Hesabı Programı Çalışıyor...");
 
       print("Lütfen yarı çapın değerini giriniz : ");
@@ -36,19 +32,5 @@ void main() {
 
       print("Dikdörtgen Alanı : ${pi * yariCap * yariCap}");
     }
-
-
-
   }
-
-
-
-
-
-
-
-
-
-
-
 }
