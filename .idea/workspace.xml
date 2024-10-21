@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ödev2_DikdörtgenÇevresi.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev3_Faktoriyel.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_dart/lib/OOP/Odev5_İçAçıToplamı.dart" beforeDir="false" afterPath="$PROJECT_DIR$/a1_dart/lib/OOP/Odev5_İçAçıToplamı.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +42,13 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Dart Command Line App.Odev1_ DereceFahrenhiet.dart.executor": "Run",
+    "Dart Command Line App.Odev3_Faktoriyel.dart.executor": "Run",
     "Dart Command Line App.a1_AracMain.dart.executor": "Run",
     "Dart Command Line App.a1_giris.dart.executor": "Run",
     "Dart Command Line App.a2_OtubusMain.dart.executor": "Run",
     "Dart Command Line App.a3_Fonksiyonlar.dart.executor": "Run",
     "Dart Command Line App.a4_FonksiyonErişimMain.dart.executor": "Run",
+    "Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor": "Run",
     "Flutter.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -70,19 +73,19 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart">
+  <component name="RunManager" selected="Dart Command Line App.Odev5_İçAçıToplamı.dart">
     <configuration name="Odev1_ DereceFahrenhiet.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev1_ DereceFahrenhiet.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
-    <configuration name="a2_OtubusMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a2_OtubusMain.dart" />
+    <configuration name="Odev3_Faktoriyel.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev3_Faktoriyel.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
-    <configuration name="a3_Fonksiyonlar.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a3_Fonksiyonlar.dart" />
+    <configuration name="Odev5_İçAçıToplamı.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev5_İçAçıToplamı.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
@@ -98,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.Odev5_İçAçıToplamı.dart" />
+        <item itemvalue="Dart Command Line App.Odev3_Faktoriyel.dart" />
         <item itemvalue="Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart" />
         <item itemvalue="Dart Command Line App.Odev1_ DereceFahrenhiet.dart" />
         <item itemvalue="Dart Command Line App.a4_FonksiyonErişimMain.dart" />
-        <item itemvalue="Dart Command Line App.a3_Fonksiyonlar.dart" />
-        <item itemvalue="Dart Command Line App.a2_OtubusMain.dart" />
       </list>
     </recent_temporary>
   </component>
