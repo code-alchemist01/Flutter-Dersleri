@@ -38,7 +38,5 @@ void main() {
       print("Geçersiz bir seçim yaptınız.");
   }
 
-  if (sonuc != null) {
-    print("Sonuç: $sonuc");
-  }
+  print("Sonuç: $sonuc");
 }
