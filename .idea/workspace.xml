@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a6_LateKavramı.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a7_Constructor.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a7_ConstructorMain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a8_StaticDeyimi.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a8_StaticMain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a9_Enumeration.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a9_EnumerationMain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionAdres.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionKisiler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionMain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionMusteriler.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +63,8 @@
     "Dart Command Line App.a4_FonksiyonErişimMain.dart.executor": "Run",
     "Dart Command Line App.a5_NullSafety.dart.executor": "Run",
     "Dart Command Line App.a7_ConstructorMain.dart.executor": "Run",
+    "Dart Command Line App.a8_StaticMain.dart.executor": "Run",
+    "Dart Command Line App.a9_EnumerationMain.dart.executor": "Run",
     "Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor": "Run",
     "Flutter.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -83,22 +90,7 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.a7_ConstructorMain.dart">
-    <configuration name="Odev4_HarfSayısıBulma.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev4_HarfSayısıBulma.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Odev6_MaaşHesabı.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev6_MaaşHesabı.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Odev7_İnternetUcretiHesaplama.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev7_İnternetUcretiHesaplama.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Dart Command Line App.b1_CompositionMain.dart">
     <configuration name="a5_NullSafety.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a5_NullSafety.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
@@ -109,13 +101,28 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
+    <configuration name="a8_StaticMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a8_StaticMain.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a9_EnumerationMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a9_EnumerationMain.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="b1_CompositionMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/b1_CompositionMain.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.b1_CompositionMain.dart" />
+        <item itemvalue="Dart Command Line App.a9_EnumerationMain.dart" />
+        <item itemvalue="Dart Command Line App.a8_StaticMain.dart" />
         <item itemvalue="Dart Command Line App.a7_ConstructorMain.dart" />
         <item itemvalue="Dart Command Line App.a5_NullSafety.dart" />
-        <item itemvalue="Dart Command Line App.Odev4_HarfSayısıBulma.dart" />
-        <item itemvalue="Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart" />
-        <item itemvalue="Dart Command Line App.Odev6_MaaşHesabı.dart" />
       </list>
     </recent_temporary>
   </component>
