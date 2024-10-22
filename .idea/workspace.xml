@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionFilmler.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionKategoriler.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionMain.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionYonetmenler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev9_KalıtımEv.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev9_KalıtımMain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev9_KalıtımSaray.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev9_KalıtımVilla.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b2_KalıtımAraba.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b2_KalıtımArac.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b2_KalıtımBMW.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b2_KalıtımMain.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +67,7 @@
     "Dart Command Line App.a8_StaticMain.dart.executor": "Run",
     "Dart Command Line App.a9_EnumerationMain.dart.executor": "Run",
     "Dart Command Line App.b1_CompositionMain.dart.executor": "Run",
+    "Dart Command Line App.b2_KalıtımMain.dart.executor": "Run",
     "Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor": "Run",
     "Flutter.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -88,19 +93,14 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.Odev8_CompositionMain.dart">
+  <component name="RunManager" selected="Dart Command Line App.Odev9_KalıtımMain.dart">
     <configuration name="Odev8_CompositionMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev8_CompositionMain.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
-    <configuration name="a7_ConstructorMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a7_ConstructorMain.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="a8_StaticMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a8_StaticMain.dart" />
+    <configuration name="Odev9_KalıtımMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev9_KalıtımMain.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
@@ -114,13 +114,18 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
+    <configuration name="b2_KalıtımMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/b2_KalıtımMain.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.Odev9_KalıtımMain.dart" />
+        <item itemvalue="Dart Command Line App.b2_KalıtımMain.dart" />
         <item itemvalue="Dart Command Line App.Odev8_CompositionMain.dart" />
         <item itemvalue="Dart Command Line App.b1_CompositionMain.dart" />
         <item itemvalue="Dart Command Line App.a9_EnumerationMain.dart" />
-        <item itemvalue="Dart Command Line App.a8_StaticMain.dart" />
-        <item itemvalue="Dart Command Line App.a7_ConstructorMain.dart" />
       </list>
     </recent_temporary>
   </component>
