@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a8_StaticDeyimi.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a8_StaticMain.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a9_Enumeration.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/a9_EnumerationMain.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionAdres.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionKisiler.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionMain.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b1_CompositionMusteriler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionFilmler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionKategoriler.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionMain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Odev8_CompositionYonetmenler.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +52,7 @@
     "Dart Command Line App.Odev5_İçAçıToplamı.dart.executor": "Run",
     "Dart Command Line App.Odev6_MaaşHesabı.dart.executor": "Run",
     "Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart.executor": "Run",
+    "Dart Command Line App.Odev8_CompositionMain.dart.executor": "Run",
     "Dart Command Line App.a1_AracMain.dart.executor": "Run",
     "Dart Command Line App.a1_giris.dart.executor": "Run",
     "Dart Command Line App.a2_OtubusMain.dart.executor": "Run",
@@ -65,6 +62,7 @@
     "Dart Command Line App.a7_ConstructorMain.dart.executor": "Run",
     "Dart Command Line App.a8_StaticMain.dart.executor": "Run",
     "Dart Command Line App.a9_EnumerationMain.dart.executor": "Run",
+    "Dart Command Line App.b1_CompositionMain.dart.executor": "Run",
     "Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor": "Run",
     "Flutter.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,7 +79,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
@@ -90,9 +88,9 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.b1_CompositionMain.dart">
-    <configuration name="a5_NullSafety.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/a5_NullSafety.dart" />
+  <component name="RunManager" selected="Dart Command Line App.Odev8_CompositionMain.dart">
+    <configuration name="Odev8_CompositionMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev8_CompositionMain.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
@@ -118,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.Odev8_CompositionMain.dart" />
         <item itemvalue="Dart Command Line App.b1_CompositionMain.dart" />
         <item itemvalue="Dart Command Line App.a9_EnumerationMain.dart" />
         <item itemvalue="Dart Command Line App.a8_StaticMain.dart" />
         <item itemvalue="Dart Command Line App.a7_ConstructorMain.dart" />
-        <item itemvalue="Dart Command Line App.a5_NullSafety.dart" />
       </list>
     </recent_temporary>
   </component>
