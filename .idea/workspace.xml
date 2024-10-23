@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek1_DownCastingUpCasting.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek1_DownCastingUpCastingIsci.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek1_DownCastingUpCastingMudur.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek1_DownCastingUpCastingOgretmen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek1_DownCastingUpCastingPersonel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b6_Interface1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b6_InterfaceClassA.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/b6_InterfaceMain.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,7 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.Ornek1_DownCastingUpCasting.dart">
+  <component name="RunManager" selected="Dart Command Line App.b6_InterfaceMain.dart">
     <configuration name="Odev9_KalıtımMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Odev9_KalıtımMain.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
@@ -102,11 +100,6 @@
     </configuration>
     <configuration name="Ornek1_DownCastingUpCasting.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Ornek1_DownCastingUpCasting.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b2_KalıtımMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/b2_KalıtımMain.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
@@ -120,13 +113,18 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
+    <configuration name="b6_InterfaceMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/b6_InterfaceMain.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.b6_InterfaceMain.dart" />
         <item itemvalue="Dart Command Line App.Ornek1_DownCastingUpCasting.dart" />
         <item itemvalue="Dart Command Line App.b4_PolymorphismMain.dart" />
         <item itemvalue="Dart Command Line App.b3_KalıtımOverrideMain.dart" />
         <item itemvalue="Dart Command Line App.Odev9_KalıtımMain.dart" />
-        <item itemvalue="Dart Command Line App.b2_KalıtımMain.dart" />
       </list>
     </recent_temporary>
   </component>
