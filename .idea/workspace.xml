@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/a1_ListeOlusturma.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/a4_ListelerdeDonguler.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1_Dart/lib/Collections/a1_giris.dart" beforeDir="false" afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/a2_ListeElemanEkleme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_Dart/lib/Collections/a3_ListIslemleri.dart" beforeDir="false" afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/a3_ListIslemleri.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,9 @@
     "Dart Command Line App.a2_ListeElemanEkleme.dart.executor": "Run",
     "Dart Command Line App.a2_OtubusMain.dart.executor": "Run",
     "Dart Command Line App.a3_Fonksiyonlar.dart.executor": "Run",
+    "Dart Command Line App.a3_ListIslemleri.dart.executor": "Run",
     "Dart Command Line App.a4_FonksiyonErişimMain.dart.executor": "Run",
+    "Dart Command Line App.a4_ListelerdeDonguler.dart.executor": "Run",
     "Dart Command Line App.a5_NullSafety.dart.executor": "Run",
     "Dart Command Line App.a7_ConstructorMain.dart.executor": "Run",
     "Dart Command Line App.a8_StaticMain.dart.executor": "Run",
@@ -96,12 +98,7 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.a2_ListeElemanEkleme.dart">
-    <configuration name="Ornek1_DownCastingUpCasting.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Ornek1_DownCastingUpCasting.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Dart Command Line App.a4_ListelerdeDonguler.dart">
     <configuration name="Ornek2_InterfaceMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Ornek2_InterfaceMain.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
@@ -112,9 +109,14 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
       <method v="2" />
     </configuration>
-    <configuration name="b6_InterfaceMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/b6_InterfaceMain.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
+    <configuration name="a3_ListIslemleri.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/a3_ListIslemleri.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a4_ListelerdeDonguler.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/a4_ListelerdeDonguler.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
       <method v="2" />
     </configuration>
     <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
@@ -123,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.a4_ListelerdeDonguler.dart" />
+        <item itemvalue="Dart Command Line App.a3_ListIslemleri.dart" />
         <item itemvalue="Dart Command Line App.a2_ListeElemanEkleme.dart" />
         <item itemvalue="Flutter.main.dart" />
         <item itemvalue="Dart Command Line App.Ornek2_InterfaceMain.dart" />
-        <item itemvalue="Dart Command Line App.b6_InterfaceMain.dart" />
-        <item itemvalue="Dart Command Line App.Ornek1_DownCastingUpCasting.dart" />
       </list>
     </recent_temporary>
   </component>
