@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek2_InterfaceAmasyaElması.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek2_InterfaceAslan.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek2_InterfaceEatable.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek2_InterfaceElma.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek2_InterfaceSqueezable.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/OOP/Ornek2_InterfaceTavuk.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Android_Projeler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1_dart/lib/OOP/Ornek2_InterfaceMain.dart" beforeDir="false" afterPath="$PROJECT_DIR$/a1_dart/lib/OOP/Ornek2_InterfaceMain.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,58 +43,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Dart Command Line App.Odev1_ DereceFahrenhiet.dart.executor": "Run",
-    "Dart Command Line App.Odev3_Faktoriyel.dart.executor": "Run",
-    "Dart Command Line App.Odev4_HarfSayısıBulma.dart.executor": "Run",
-    "Dart Command Line App.Odev5_İçAçıToplamı.dart.executor": "Run",
-    "Dart Command Line App.Odev6_MaaşHesabı.dart.executor": "Run",
-    "Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart.executor": "Run",
-    "Dart Command Line App.Odev8_CompositionMain.dart.executor": "Run",
-    "Dart Command Line App.Odev9_KalıtımMain.dart.executor": "Run",
-    "Dart Command Line App.Ornek1_DownCastingUpCasting.dart.executor": "Run",
-    "Dart Command Line App.a1_AracMain.dart.executor": "Run",
-    "Dart Command Line App.a1_giris.dart.executor": "Run",
-    "Dart Command Line App.a2_OtubusMain.dart.executor": "Run",
-    "Dart Command Line App.a3_Fonksiyonlar.dart.executor": "Run",
-    "Dart Command Line App.a4_FonksiyonErişimMain.dart.executor": "Run",
-    "Dart Command Line App.a5_NullSafety.dart.executor": "Run",
-    "Dart Command Line App.a7_ConstructorMain.dart.executor": "Run",
-    "Dart Command Line App.a8_StaticMain.dart.executor": "Run",
-    "Dart Command Line App.a9_EnumerationMain.dart.executor": "Run",
-    "Dart Command Line App.b1_CompositionMain.dart.executor": "Run",
-    "Dart Command Line App.b2_KalıtımMain.dart.executor": "Run",
-    "Dart Command Line App.b3_KalıtımOverrideMain.dart.executor": "Run",
-    "Dart Command Line App.b4_PolymorphismMain.dart.executor": "Run",
-    "Dart Command Line App.b6_InterfaceMain.dart.executor": "Run",
-    "Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor": "Run",
-    "Flutter.main.dart.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "io.flutter.reload.alreadyRun": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/src/flutter",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "configurable.group.editor",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Dart Command Line App.Odev1_ DereceFahrenhiet.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Odev3_Faktoriyel.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Odev4_HarfSayısıBulma.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Odev5_İçAçıToplamı.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Odev6_MaaşHesabı.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Odev8_CompositionMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Odev9_KalıtımMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Ornek1_DownCastingUpCasting.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Ornek2_InterfaceMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a1_AracMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a1_giris.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a2_OtubusMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a3_Fonksiyonlar.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a4_FonksiyonErişimMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a5_NullSafety.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a7_ConstructorMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a8_StaticMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.a9_EnumerationMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.b1_CompositionMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.b2_KalıtımMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.b3_KalıtımOverrideMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.b4_PolymorphismMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.b6_InterfaceMain.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor&quot;: &quot;Run&quot;,
+    &quot;Flutter.main.dart.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/src/flutter/bin/cache/dart-sdk&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;dart.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.Ornek2_InterfaceMain.dart">
+  <component name="RunManager" selected="Flutter.main.dart">
     <configuration name="Ornek1_DownCastingUpCasting.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Ornek1_DownCastingUpCasting.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
@@ -105,11 +105,6 @@
     </configuration>
     <configuration name="Ornek2_InterfaceMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/Ornek2_InterfaceMain.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b3_KalıtımOverrideMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_dart/lib/OOP/b3_KalıtımOverrideMain.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
@@ -123,13 +118,17 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_dart" />
       <method v="2" />
     </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/main.dart" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.main.dart" />
         <item itemvalue="Dart Command Line App.Ornek2_InterfaceMain.dart" />
         <item itemvalue="Dart Command Line App.b6_InterfaceMain.dart" />
         <item itemvalue="Dart Command Line App.Ornek1_DownCastingUpCasting.dart" />
         <item itemvalue="Dart Command Line App.b4_PolymorphismMain.dart" />
-        <item itemvalue="Dart Command Line App.b3_KalıtımOverrideMain.dart" />
       </list>
     </recent_temporary>
   </component>
