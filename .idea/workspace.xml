@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Stringler/a1_StringYapısı.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Stringler/a2_StringMetodları.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Stringler/a3_StringinTersiniAlma.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a1_TryCatch.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a2_AsenkronIslemleri.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,9 @@
     "Dart Command Line App.Ornek2_InterfaceMain.dart.executor": "Run",
     "Dart Command Line App.a1_AracMain.dart.executor": "Run",
     "Dart Command Line App.a1_StringYapısı.dart.executor": "Run",
+    "Dart Command Line App.a1_TryCatch.dart.executor": "Run",
     "Dart Command Line App.a1_giris.dart.executor": "Run",
+    "Dart Command Line App.a2_AsenkronIslemleri.dart.executor": "Run",
     "Dart Command Line App.a2_ListeElemanEkleme.dart.executor": "Run",
     "Dart Command Line App.a2_OtubusMain.dart.executor": "Run",
     "Dart Command Line App.a2_StringMetodları.dart.executor": "Run",
@@ -117,9 +118,19 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.a3_StringinTersiniAlma.dart">
+  <component name="RunManager" selected="Dart Command Line App.a2_AsenkronIslemleri.dart">
     <configuration name="a1_StringYapısı.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Stringler/a1_StringYapısı.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a1_TryCatch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a1_TryCatch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a2_AsenkronIslemleri.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a2_AsenkronIslemleri.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
       <method v="2" />
     </configuration>
@@ -133,23 +144,13 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
       <method v="2" />
     </configuration>
-    <configuration name="b9_HashMap.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b9_HashMap.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="c1_HashMapMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/c1_HashMapMain.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.a2_AsenkronIslemleri.dart" />
+        <item itemvalue="Dart Command Line App.a1_TryCatch.dart" />
         <item itemvalue="Dart Command Line App.a3_StringinTersiniAlma.dart" />
         <item itemvalue="Dart Command Line App.a2_StringMetodları.dart" />
         <item itemvalue="Dart Command Line App.a1_StringYapısı.dart" />
-        <item itemvalue="Dart Command Line App.c1_HashMapMain.dart" />
-        <item itemvalue="Dart Command Line App.b9_HashMap.dart" />
       </list>
     </recent_temporary>
   </component>
