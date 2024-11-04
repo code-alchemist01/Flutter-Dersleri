@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       body: Stack(
         children: [
-          Container(width: 400,height: 400,color: Colors.black,),
+          Container(width: 400,height: 400,color: Colors.grey,),
           Column(
             children: [
               Container(width: 100,height: 100,color: Colors.yellow,),
