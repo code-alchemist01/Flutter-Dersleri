@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b5_Notlar.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b6_Adres.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b6_Personel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b8_HashSetMain.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b8_HashSetOgrenciler.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a1_Dart/lib/Collections/b5_KarneUygulaması.dart" beforeDir="false" afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b5_KarneUygulaması.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_Dart/lib/Collections/b6_Composition.dart" beforeDir="false" afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b6_Composition.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a1_Dart/lib/Collections/b7_HashSetYapısı.dart" beforeDir="false" afterPath="$PROJECT_DIR$/a1_Dart/lib/Collections/b7_HashSetYapısı.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +85,10 @@
     "Dart Command Line App.b4_OkulKayıt.dart.executor": "Run",
     "Dart Command Line App.b4_PolymorphismMain.dart.executor": "Run",
     "Dart Command Line App.b5_KarneUygulaması.dart.executor": "Run",
+    "Dart Command Line App.b6_Composition.dart.executor": "Run",
     "Dart Command Line App.b6_InterfaceMain.dart.executor": "Run",
+    "Dart Command Line App.b7_HashSetYapısı.dart.executor": "Run",
+    "Dart Command Line App.b8_HashSetMain.dart.executor": "Run",
     "Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor": "Run",
     "Flutter.main.dart.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -108,22 +115,7 @@
       <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
     </key>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.b5_KarneUygulaması.dart">
-    <configuration name="b1_TekCiftAyırma.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b1_TekCiftAyırma.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b2_RastgeleSayiUretme.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b2_RastgeleSayiUretme.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b3_IsimArama.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b3_IsimArama.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Dart Command Line App.b8_HashSetMain.dart">
     <configuration name="b4_OkulKayıt.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b4_OkulKayıt.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
@@ -134,13 +126,28 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
       <method v="2" />
     </configuration>
+    <configuration name="b6_Composition.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b6_Composition.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="b7_HashSetYapısı.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b7_HashSetYapısı.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="b8_HashSetMain.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Collections/b8_HashSetMain.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.b8_HashSetMain.dart" />
+        <item itemvalue="Dart Command Line App.b7_HashSetYapısı.dart" />
+        <item itemvalue="Dart Command Line App.b6_Composition.dart" />
         <item itemvalue="Dart Command Line App.b5_KarneUygulaması.dart" />
         <item itemvalue="Dart Command Line App.b4_OkulKayıt.dart" />
-        <item itemvalue="Dart Command Line App.b3_IsimArama.dart" />
-        <item itemvalue="Dart Command Line App.b2_RastgeleSayiUretme.dart" />
-        <item itemvalue="Dart Command Line App.b1_TekCiftAyırma.dart" />
       </list>
     </recent_temporary>
   </component>
