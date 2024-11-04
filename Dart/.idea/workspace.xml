@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a1_TryCatch.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a2_AsenkronIslemleri.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nkTcKQM5p0LM0ToGrUdf9I6c1v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Dart Command Line App.Odev1_ DereceFahrenhiet.dart.executor": "Run",
+    "Dart Command Line App.Odev3_Faktoriyel.dart.executor": "Run",
+    "Dart Command Line App.Odev4_HarfSayısıBulma.dart.executor": "Run",
+    "Dart Command Line App.Odev5_İçAçıToplamı.dart.executor": "Run",
+    "Dart Command Line App.Odev6_MaaşHesabı.dart.executor": "Run",
+    "Dart Command Line App.Odev7_İnternetUcretiHesaplama.dart.executor": "Run",
+    "Dart Command Line App.Odev8_CompositionMain.dart.executor": "Run",
+    "Dart Command Line App.Odev9_KalıtımMain.dart.executor": "Run",
+    "Dart Command Line App.Ornek1_DownCastingUpCasting.dart.executor": "Run",
+    "Dart Command Line App.Ornek2_InterfaceMain.dart.executor": "Run",
+    "Dart Command Line App.a1_AracMain.dart.executor": "Run",
+    "Dart Command Line App.a1_StringYapısı.dart.executor": "Run",
+    "Dart Command Line App.a1_TryCatch.dart.executor": "Run",
+    "Dart Command Line App.a1_giris.dart.executor": "Run",
+    "Dart Command Line App.a2_AsenkronIslemleri.dart.executor": "Run",
+    "Dart Command Line App.a2_ListeElemanEkleme.dart.executor": "Run",
+    "Dart Command Line App.a2_OtubusMain.dart.executor": "Run",
+    "Dart Command Line App.a2_StringMetodları.dart.executor": "Run",
+    "Dart Command Line App.a3_Fonksiyonlar.dart.executor": "Run",
+    "Dart Command Line App.a3_ListIslemleri.dart.executor": "Run",
+    "Dart Command Line App.a3_StringinTersiniAlma.dart.executor": "Run",
+    "Dart Command Line App.a4_FonksiyonErişimMain.dart.executor": "Run",
+    "Dart Command Line App.a4_ListelerdeDonguler.dart.executor": "Run",
+    "Dart Command Line App.a5_ListOOPNesne.dart.executor": "Run",
+    "Dart Command Line App.a5_NullSafety.dart.executor": "Run",
+    "Dart Command Line App.a6_ListSıralama.dart.executor": "Run",
+    "Dart Command Line App.a7_ConstructorMain.dart.executor": "Run",
+    "Dart Command Line App.a7_ListFiltreleme.dart.executor": "Run",
+    "Dart Command Line App.a8_OrtalamaHesaplama.dart.executor": "Run",
+    "Dart Command Line App.a8_StaticMain.dart.executor": "Run",
+    "Dart Command Line App.a9_EnumerationMain.dart.executor": "Run",
+    "Dart Command Line App.a9_IcerikDegistirme.dart.executor": "Run",
+    "Dart Command Line App.b1_CompositionMain.dart.executor": "Run",
+    "Dart Command Line App.b1_TekCiftAyırma.dart.executor": "Run",
+    "Dart Command Line App.b2_KalıtımMain.dart.executor": "Run",
+    "Dart Command Line App.b2_RastgeleSayiUretme.dart.executor": "Run",
+    "Dart Command Line App.b3_IsimArama.dart.executor": "Run",
+    "Dart Command Line App.b3_KalıtımOverrideMain.dart.executor": "Run",
+    "Dart Command Line App.b4_OkulKayıt.dart.executor": "Run",
+    "Dart Command Line App.b4_PolymorphismMain.dart.executor": "Run",
+    "Dart Command Line App.b5_KarneUygulaması.dart.executor": "Run",
+    "Dart Command Line App.b6_Composition.dart.executor": "Run",
+    "Dart Command Line App.b6_InterfaceMain.dart.executor": "Run",
+    "Dart Command Line App.b7_HashSetYapısı.dart.executor": "Run",
+    "Dart Command Line App.b8_HashSetMain.dart.executor": "Run",
+    "Dart Command Line App.b9_HashMap.dart.executor": "Run",
+    "Dart Command Line App.c1_HashMapMain.dart.executor": "Run",
+    "Dart Command Line App.Ödev2_DikdörtgenÇevresi.dart.executor": "Run",
+    "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "io.flutter.reload.alreadyRun": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/src/flutter/bin/cache/dart-sdk",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "dart.settings",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Burak\Desktop\Android_Projeler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.a2_AsenkronIslemleri.dart">
+    <configuration name="a1_StringYapısı.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Stringler/a1_StringYapısı.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a1_TryCatch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a1_TryCatch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a2_AsenkronIslemleri.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/İleriDart/a2_AsenkronIslemleri.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a2_StringMetodları.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Stringler/a2_StringMetodları.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="a3_StringinTersiniAlma.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/a1_Dart/lib/Stringler/a3_StringinTersiniAlma.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/a1_Dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.a2_AsenkronIslemleri.dart" />
+        <item itemvalue="Dart Command Line App.a1_TryCatch.dart" />
+        <item itemvalue="Dart Command Line App.a3_StringinTersiniAlma.dart" />
+        <item itemvalue="Dart Command Line App.a2_StringMetodları.dart" />
+        <item itemvalue="Dart Command Line App.a1_StringYapısı.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1230637a-f0b2-4211-94ce-ae53c3b15658" name="Changes" comment="" />
+      <created>1729516152033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729516152033</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
