@@ -66,12 +66,13 @@ class _MyHomePageState extends State<MyHomePage> {
               fontSize: ekranGenisligi/25,
             ),
           ),
+          Spacer(),
           Padding(
-            padding:  EdgeInsets.only(left: ekranGenisligi/200 ,right: ekranGenisligi/200),
+            padding:  EdgeInsets.only(left: ekranGenisligi/100 ,right: ekranGenisligi/100),
             child: Text("ben sana bok demem,"
                 "boklar duyar ar eder."
                 "bir zerren düşse boka,"
-                "onu da mundar eder."
+                "onu da mundar eder.\n\n"
 
                 "türk milleti gariptir"
                 "her bi lafı kaldırmaz.."
@@ -83,14 +84,31 @@ class _MyHomePageState extends State<MyHomePage> {
               ),
             ),
           ),
-          ElevatedButton(
-            child: Text("İlham verici söz yazdır..."),
-            onPressed: (){
-              print("Söz Yazdırıldı");
-            },
-            c
+          Spacer(),
+          Padding(
+            padding:  EdgeInsets.only(bottom: ekranYuksekligi/100 ),
+            child: SizedBox(
+              width: ekranGenisligi/2,
+              height: ekranYuksekligi/12,
+              child: ElevatedButton(
+                child: Text("İlham verici söz "),
+                onPressed: (){
+                  print("Söz Yazdırıldı");
+                },
+                style: ElevatedButton.styleFrom(
+                  foregroundColor: Colors.white, // text color
+                  backgroundColor: Colors.red, // button color
+                  textStyle: TextStyle(
+                      fontSize: ekranGenisligi/25,
+                      fontWeight: FontWeight.bold,
 
+                  )
+                ),
+
+              ),
+            ),
           ),
+          Spacer(),
 
         ],
       ),
